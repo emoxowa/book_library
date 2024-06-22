@@ -1,0 +1,9 @@
+.card-list__loader {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 30px;
+  font-size: 24px;
+  font-weight: 600;
+  line-height: 32px;
+}
